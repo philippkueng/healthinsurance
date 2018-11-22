@@ -2,7 +2,7 @@
 
 ## Usage
 
-FIXME
+Have a look at https://github.com/philippkueng/healthinsurance/blob/master/src/healthinsurance/core.clj - fill in your custom values and evaluate the last expression.
 
 ## Output of the function
 
@@ -23,7 +23,6 @@ husband_1500,273.4,3380.8,3480.8,3580.8,3680.8,3780.8,3880.8,3980.8,4080.8,4180.
 husband_2000,245.7,3048.4,3148.4,3248.4,3348.4,3448.4,3548.4,3648.4,3748.4,3848.4,3948.4,4048.4,4148.4,4248.4,4348.4,4448.4,4548.4,4648.4,4748.4,4848.4,4948.4,4958.4,4968.4,4978.4,4988.4,4998.4
 husband_2500,218,2716,2816,2916,3016,3116,3216,3316,3416,3516,3616,3716,3816,3916,4016,4116,4216,4316,4416,4516,4616,4716,4816,4916,5016,5116
 ```
-
 
 And when you open it up in Excel and use color formatting you might get something like this:
 
